@@ -1,2 +1,3 @@
 from .user import UserViewSet
-from .acessorio import AcessorioViwSet
+from .acessorio import AcessorioViewSet
+from .categoria import CategoriaViewSet
